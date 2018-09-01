@@ -1,0 +1,69 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: renju - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/renju.res" /d "NDEBUG" /d "_AFXDLL" "H:\Project\renju\renju.rc"" 
+Creating temporary file "E:\WINDOWS\TEMP\RSP7313.TMP" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Release/" /Fp"Release/renju.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"H:\Project\renju\Eveluation.cpp"
+"H:\Project\renju\HistoryHeuristic.cpp"
+"H:\Project\renju\MoveGenerator.cpp"
+"H:\Project\renju\NegaScout_TT_HH.cpp"
+"H:\Project\renju\NewGame.cpp"
+"H:\Project\renju\renju.cpp"
+"H:\Project\renju\renjuDlg.cpp"
+"H:\Project\renju\SearchEngine.cpp"
+"H:\Project\renju\TranspositionTable.cpp"
+]
+Creating command line "cl.exe @E:\WINDOWS\TEMP\RSP7313.TMP" 
+Creating temporary file "E:\WINDOWS\TEMP\RSP7314.TMP" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Release/" /Fp"Release/renju.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"H:\Project\renju\StdAfx.cpp"
+]
+Creating command line "cl.exe @E:\WINDOWS\TEMP\RSP7314.TMP" 
+Creating temporary file "E:\WINDOWS\TEMP\RSP7315.TMP" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/renju.pdb" /machine:I386 /out:"Release/renju.exe" 
+.\Release\Eveluation.obj
+.\Release\HistoryHeuristic.obj
+.\Release\MoveGenerator.obj
+.\Release\NegaScout_TT_HH.obj
+.\Release\NewGame.obj
+.\Release\renju.obj
+.\Release\renjuDlg.obj
+.\Release\SearchEngine.obj
+.\Release\StdAfx.obj
+.\Release\TranspositionTable.obj
+.\Release\renju.res
+]
+Creating command line "link.exe @E:\WINDOWS\TEMP\RSP7315.TMP"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+Eveluation.cpp
+HistoryHeuristic.cpp
+MoveGenerator.cpp
+NegaScout_TT_HH.cpp
+NewGame.cpp
+renju.cpp
+renjuDlg.cpp
+SearchEngine.cpp
+TranspositionTable.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+renju.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

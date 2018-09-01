@@ -1,0 +1,59 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: chess - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "E:\WINDOWS\TEMP\RSP3020.TMP" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/chess.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"H:\Project\renju\MoveGenerator.cpp"
+]
+Creating command line "cl.exe @E:\WINDOWS\TEMP\RSP3020.TMP" 
+Creating temporary file "E:\WINDOWS\TEMP\RSP3021.TMP" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Debug/renju.pdb" /debug /machine:I386 /out:"Debug/renju.exe" /pdbtype:sept 
+.\Debug\Eveluation.obj
+.\Debug\HistoryHeuristic.obj
+.\Debug\MoveGenerator.obj
+.\Debug\NegaScout_TT_HH.obj
+.\Debug\NewGame.obj
+.\Debug\renju.obj
+.\Debug\renjuDlg.obj
+.\Debug\SearchEngine.obj
+.\Debug\StdAfx.obj
+.\Debug\TranspositionTable.obj
+.\Debug\renju.res
+]
+Creating command line "link.exe @E:\WINDOWS\TEMP\RSP3021.TMP"
+<h3>Output Window</h3>
+Compiling...
+MoveGenerator.cpp
+Linking...
+LINK : warning LNK4075: ignoring /EDITANDCONTINUE due to /INCREMENTAL:NO specification
+Creating temporary file "E:\WINDOWS\TEMP\RSP3031.TMP" with contents
+[
+/nologo /o"Debug/renju.bsc" 
+.\Debug\StdAfx.sbr
+.\Debug\Eveluation.sbr
+.\Debug\HistoryHeuristic.sbr
+.\Debug\MoveGenerator.sbr
+.\Debug\NegaScout_TT_HH.sbr
+.\Debug\NewGame.sbr
+.\Debug\renju.sbr
+.\Debug\renjuDlg.sbr
+.\Debug\SearchEngine.sbr
+.\Debug\TranspositionTable.sbr]
+Creating command line "bscmake.exe @E:\WINDOWS\TEMP\RSP3031.TMP"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+renju.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,103 @@
+
+ Volume in drive H is DATA       
+ Volume Serial Number is 90E5-52FC
+
+Directory of H:\PROJECT\renju
+
+.              <DIR>        05-18-02  21:08 .
+..             <DIR>        05-18-02  21:08 ..
+CHESS    CLW         1,531  06-08-02  18:22 chess.clw
+README   TXT         3,561  10-26-01  18:08 ReadMe.txt
+RENJU    NCB       107,520  06-14-02  22:47 renju.ncb
+RENJU    RC          7,055  06-08-02  21:58 renju.rc
+CHESSD~1 BAK           717  06-02-02  13:35 chess.dsw.bak
+RENJU    CPP         3,211  06-12-02  22:45 renju.cpp
+DEBUG          <DIR>        06-10-02  20:34 Debug
+STDAFX   H           1,054  10-26-01  18:08 StdAfx.h
+HISTOR~1 H           2,210  06-12-02  22:45 HistoryHeuristic.h
+HISTOR~1 CPP         4,015  06-12-02  22:45 HistoryHeuristic.cpp
+RENJUD~1 BAK         5,218  06-08-02  23:09 renju.dsp.bak
+RENJU    DSP         5,199  06-09-02  10:56 renju.dsp
+DEFINE   H           1,611  06-12-02  22:45 define.h
+CHESS    PLG         1,760  06-08-02  22:03 chess.plg
+RENJUDLG CPP         8,419  06-12-02  22:45 renjuDlg.cpp
+EVELUA~1 H           2,552  06-13-02  20:08 Eveluation.h
+MOVEGE~1 CPP         2,453  06-14-02  22:46 MoveGenerator.cpp
+EVELUA~1 CPP        13,883  06-13-02  20:08 Eveluation.cpp
+MOVEGE~1 H           1,820  06-12-02  22:45 MoveGenerator.h
+SEARCH~1 CPP         2,244  06-12-02  22:45 SearchEngine.cpp
+RELEASE        <DIR>        06-10-02  20:35 Release
+VSSVER   SCC         1,056  12-14-01  11:47 vssver.scc
+MSSCCPRJ SCC           138  10-28-01  12:12 mssccprj.scc
+FALPHA~1 CPP         3,680  06-08-02  18:21 FAlphaBetaAndTT.cpp
+FALPHA~2 CPP         1,683  06-08-02  18:21 FAlphaBetaEngine.cpp
+RENJU    OPT        54,784  06-14-02  22:47 renju.opt
+NEWGAME  CPP         2,933  06-12-02  22:45 NewGame.cpp
+RENJU    DSW           487  06-08-02  22:34 renju.dsw
+RENJU    PLG         1,201  06-14-02  22:46 renju.plg
+NEGASC~1 CPP         4,546  06-13-02  20:40 NegaScout_TT_HH.cpp
+TRANSP~1 CPP         4,468  06-12-02  22:45 TranspositionTable.cpp
+NEWGAME  H           2,475  06-12-02  22:45 NewGame.h
+RENJUDLG H           2,729  06-12-02  22:45 renjuDlg.h
+TRANSP~1 H           2,450  06-12-02  22:47 TranspositionTable.h
+NEGASC~1 H           1,975  06-12-02  22:45 NegaScout_TT_HH.h
+RENJU    H           2,415  06-12-02  22:45 Renju.h
+SEARCH~1 H           2,408  06-12-02  22:45 SearchEngine.h
+FILELIST TXT             0  06-15-02  16:36 filelist.txt
+RES            <DIR>        05-18-02  21:08 res
+CHESSD~2 BAK         5,540  05-19-02  23:26 chess.dsp.bak
+RESOURCE H           1,050  06-08-02  19:12 RESOURCE.H
+STDAFX   CPP           207  06-08-02  19:18 StdAfx.cpp
+        39 file(s)        272,258 bytes
+
+Directory of H:\PROJECT\renju\Debug
+
+.              <DIR>        06-10-02  20:34 .
+..             <DIR>        06-10-02  20:34 ..
+RENJU    EXE        36,913  06-10-02  21:22 renju.exe
+         1 file(s)         36,913 bytes
+
+Directory of H:\PROJECT\renju\Release
+
+.              <DIR>        06-10-02  20:35 .
+..             <DIR>        06-10-02  20:35 ..
+RENJU    RES         3,068  06-14-02  22:36 renju.res
+RENJU    PCH     7,399,648  06-14-02  22:36 renju.pch
+VC60     IDB        58,368  06-14-02  22:46 vc60.idb
+STDAFX   SBR     1,542,524  06-14-02  22:36 StdAfx.sbr
+STDAFX   OBJ           750  06-14-02  22:36 StdAfx.obj
+EVELUA~1 SBR        11,199  06-14-02  22:36 Eveluation.sbr
+HISTOR~1 SBR         4,076  06-14-02  22:36 HistoryHeuristic.sbr
+MOVEGE~1 SBR         3,865  06-14-02  22:46 MoveGenerator.sbr
+NEGASC~1 SBR         7,447  06-14-02  22:36 NegaScout_TT_HH.sbr
+NEWGAME  SBR         3,064  06-14-02  22:36 NewGame.sbr
+RENJU    SBR         7,402  06-14-02  22:36 renju.sbr
+RENJUDLG SBR        10,939  06-14-02  22:36 renjuDlg.sbr
+SEARCH~1 SBR         4,038  06-14-02  22:36 SearchEngine.sbr
+TRANSP~1 SBR         4,211  06-14-02  22:36 TranspositionTable.sbr
+TRANSP~1 OBJ         5,108  06-14-02  22:36 TranspositionTable.obj
+SEARCH~1 OBJ         3,627  06-14-02  22:36 SearchEngine.obj
+RENJUDLG OBJ        20,297  06-14-02  22:36 renjuDlg.obj
+RENJU    OBJ         9,569  06-14-02  22:36 renju.obj
+NEWGAME  OBJ        12,041  06-14-02  22:36 NewGame.obj
+NEGASC~1 OBJ         8,408  06-14-02  22:36 NegaScout_TT_HH.obj
+MOVEGE~1 OBJ         2,660  06-14-02  22:46 MoveGenerator.obj
+HISTOR~1 OBJ         4,642  06-14-02  22:36 HistoryHeuristic.obj
+EVELUA~1 OBJ         7,991  06-14-02  22:36 Eveluation.obj
+RENJU    EXE        28,672  06-14-02  22:46 renju.exe
+        24 file(s)      9,163,614 bytes
+
+Directory of H:\PROJECT\renju\res
+
+.              <DIR>        05-18-02  21:08 .
+..             <DIR>        05-18-02  21:08 ..
+RENJU    ICO         1,078  05-19-02  11:52 renju.ico
+VSSVER   SCC            96  11-01-01  21:44 vssver.scc
+BITMAP1  BMP        79,222  10-31-01  12:31 bitmap1.bmp
+BMP00001 BMP         9,190  10-27-01  17:23 bmp00001.bmp
+RENJU    RC2           397  06-08-02  19:14 RENJU.RC2
+         5 file(s)         89,983 bytes
+
+Total files listed:
+        69 file(s)      9,562,768 bytes
+        11 dir(s)        2,155.98 MB free
